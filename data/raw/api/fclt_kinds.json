@@ -1,0 +1,1121 @@
+{
+ "meta": {
+  "fetched": "2026-11-08",
+  "source": "https://apis.data.go.kr/B554287/sclWlfrFcltInfoInqirService2/getFcltKindCodeInfoInqire2",
+  "params": {},
+  "totalCount": 139,
+  "got": 139
+ },
+ "items": [
+  {
+   "fcltKindCd": "000101",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타차세대",
+   "fcltDtlKindNm": "사회보장정보원",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "010101",
+   "sysDvsnCd": "WA",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "노인주거복지시설",
+   "fcltDtlKindNm": "양로시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "020107",
+   "sysDvsnCd": "WK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "공동생활가정",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "020113",
+   "sysDvsnCd": "WK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "아동보호전문기관",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "040328",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "지역사회전환시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "050108",
+   "sysDvsnCd": "HL",
+   "fcltUseRcpnNm": "노숙인등",
+   "fcltKindNm": "노숙인복지시설",
+   "fcltDtlKindNm": "노숙인일시보호시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "090112",
+   "sysDvsnCd": "MF",
+   "fcltUseRcpnNm": "한부모가족",
+   "fcltKindNm": "한부모가족복지시설",
+   "fcltDtlKindNm": "한부모가족복지상담소",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "090115",
+   "sysDvsnCd": "MF",
+   "fcltUseRcpnNm": "한부모가족",
+   "fcltKindNm": "한부모가족복지시설",
+   "fcltDtlKindNm": "생활지원시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "100401",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "가정폭력피해보호시설",
+   "fcltDtlKindNm": "가정폭력피해자보호시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "140101",
+   "sysDvsnCd": "HF",
+   "fcltUseRcpnNm": "다문화가족",
+   "fcltKindNm": "다문화가족복지시설",
+   "fcltDtlKindNm": "다문화가족지원센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "030401",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인의료재활시설",
+   "fcltDtlKindNm": "장애인의료재활시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "050104",
+   "sysDvsnCd": "HL",
+   "fcltUseRcpnNm": "노숙인등",
+   "fcltKindNm": "노숙인복지시설",
+   "fcltDtlKindNm": "노숙인재활시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "170104",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "비영리법인",
+   "fcltDtlKindNm": "시·군·구사회복지협의회",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "040318",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "생활시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "020108",
+   "sysDvsnCd": "SK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "아동상담소",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "100101",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "성매매피해지원시설",
+   "fcltDtlKindNm": "일반지원시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "020116",
+   "sysDvsnCd": "WK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "학대피해아동쉼터",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "040211",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신요양시설",
+   "fcltDtlKindNm": "정신요양시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "040314",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "정신질환자주거시설(구)",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "010304",
+   "sysDvsnCd": "WG",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "노인여가복지시설",
+   "fcltDtlKindNm": "노인휴양소",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "010103",
+   "sysDvsnCd": "WA",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "노인주거복지시설",
+   "fcltDtlKindNm": "노인복지주택",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "010202",
+   "sysDvsnCd": "WA",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "노인의료복지시설",
+   "fcltDtlKindNm": "노인요양공동생활가정",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "010801",
+   "sysDvsnCd": "WA",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "학대피해노인전용쉼터",
+   "fcltDtlKindNm": "학대피해노인전용쉼터",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "020115",
+   "sysDvsnCd": "SK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "자립지원전담기관",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "030213",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인지역사회재활시설",
+   "fcltDtlKindNm": "장애인재활치료시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "150104",
+   "sysDvsnCd": "YO",
+   "fcltUseRcpnNm": "청소년",
+   "fcltKindNm": "청소년복지시설",
+   "fcltDtlKindNm": "청소년회복지원시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "999901",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "요양보호사교육기관",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "999902",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "가정봉사원훈련원",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "999915",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "장애인자립지원센터",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "999996",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "여성복지시설(기타)",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "100103",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "성매매피해지원시설",
+   "fcltDtlKindNm": "외국인지원시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "030901",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인쉼터",
+   "fcltDtlKindNm": "장애인쉼터",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "999919",
+   "sysDvsnCd": "WH",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "장애인편의증진센터",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "020201",
+   "sysDvsnCd": "SK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "다함께돌봄센터",
+   "fcltDtlKindNm": "다함께돌봄센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "030201",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인지역사회재활시설",
+   "fcltDtlKindNm": "장애인복지관",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "030208",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인지역사회재활시설",
+   "fcltDtlKindNm": "시각장애인 등 생활지원센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "070101",
+   "sysDvsnCd": "SF",
+   "fcltUseRcpnNm": "저소득",
+   "fcltKindNm": "지역자활센터",
+   "fcltDtlKindNm": "지역자활센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "090110",
+   "sysDvsnCd": "MF",
+   "fcltUseRcpnNm": "한부모가족",
+   "fcltKindNm": "한부모가족복지시설",
+   "fcltDtlKindNm": "일시지원시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "100301",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "성폭력피해보호시설",
+   "fcltDtlKindNm": "성폭력피해자보호시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "180101",
+   "sysDvsnCd": "WA",
+   "fcltKindNm": "장기요양시설",
+   "fcltDtlKindNm": "장기요양기관",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "999903",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "재가복지봉사센터",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "999997",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "부랑인보호시설(기타)",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "100403",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "가정폭력피해보호시설",
+   "fcltDtlKindNm": "가정폭력상담원교육훈련시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "020109",
+   "sysDvsnCd": "SK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "아동전용시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "020110",
+   "sysDvsnCd": "SK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "아동복지관",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "100404",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "가정폭력피해보호시설",
+   "fcltDtlKindNm": "긴급전화센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "030206",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인지역사회재활시설",
+   "fcltDtlKindNm": "장애인체육시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "040312",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "정신질환자지역사회재활시설(구)",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "031001",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "피해장애아동쉼터",
+   "fcltDtlKindNm": "피해장애아동쉼터",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "999981",
+   "sysDvsnCd": "ZK",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "입양기관",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "000202",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "사회서비스원",
+   "fcltDtlKindNm": "시도사회서비스원",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "010501",
+   "sysDvsnCd": "EP",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "노인보호전문기관",
+   "fcltDtlKindNm": "지역노인보호전문기관",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "020111",
+   "sysDvsnCd": "SK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "지역아동센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "020114",
+   "sysDvsnCd": "FC",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "가정위탁지원센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "030107",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인거주시설",
+   "fcltDtlKindNm": "장애인단기거주시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "030306",
+   "sysDvsnCd": "DP",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인직업재활시설",
+   "fcltDtlKindNm": "장애인 보호작업장",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "030501",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인생산품판매시설",
+   "fcltDtlKindNm": "장애인생산품판매시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "040322",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "주간재활시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "050110",
+   "sysDvsnCd": "HL",
+   "fcltUseRcpnNm": "노숙인등",
+   "fcltKindNm": "노숙인복지시설",
+   "fcltDtlKindNm": "노숙인진료시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "060101",
+   "sysDvsnCd": "SW",
+   "fcltUseRcpnNm": "일반",
+   "fcltKindNm": "사회복지관",
+   "fcltDtlKindNm": "사회복지관",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "100501",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "통합상담소",
+   "fcltDtlKindNm": "통합상담소",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "999991",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "영유아보육시설(기타)",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "030307",
+   "sysDvsnCd": "DP",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인직업재활시설",
+   "fcltDtlKindNm": "장애인 직업적응훈련시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "100102",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "성매매피해지원시설",
+   "fcltDtlKindNm": "청소년지원시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "999907",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "정신건강복지센터",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "040320",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "중독자재활시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "040311",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "정신질환자생활훈련시설(구)",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "010102",
+   "sysDvsnCd": "WA",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "노인주거복지시설",
+   "fcltDtlKindNm": "노인공동생활가정",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "010201",
+   "sysDvsnCd": "WA",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "노인의료복지시설",
+   "fcltDtlKindNm": "노인요양시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "010302",
+   "sysDvsnCd": "WG",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "노인여가복지시설",
+   "fcltDtlKindNm": "경로당",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "010701",
+   "sysDvsnCd": "WA",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "노인일자리지원기관",
+   "fcltDtlKindNm": "노인일자리지원기관",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "020101",
+   "sysDvsnCd": "WK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "아동양육시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "030105",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인거주시설",
+   "fcltDtlKindNm": "중증장애인거주시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "030106",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인거주시설",
+   "fcltDtlKindNm": "장애영유아거주시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "030109",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인거주시설",
+   "fcltDtlKindNm": "장애유형별거주시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "030203",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인지역사회재활시설",
+   "fcltDtlKindNm": "장애인주간이용시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "030210",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인지역사회재활시설",
+   "fcltDtlKindNm": "점자도서관",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "040329",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "아동청소년정신건강지원시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "050107",
+   "sysDvsnCd": "HL",
+   "fcltUseRcpnNm": "노숙인등",
+   "fcltKindNm": "노숙인복지시설",
+   "fcltDtlKindNm": "노숙인종합지원센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "050111",
+   "sysDvsnCd": "HL",
+   "fcltUseRcpnNm": "노숙인등",
+   "fcltKindNm": "노숙인복지시설",
+   "fcltDtlKindNm": "쪽방상담소",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "080102",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "결핵한센인",
+   "fcltKindNm": "결핵한센시설",
+   "fcltDtlKindNm": "한센요양시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "150101",
+   "sysDvsnCd": "YO",
+   "fcltUseRcpnNm": "청소년",
+   "fcltKindNm": "청소년복지시설",
+   "fcltDtlKindNm": "청소년쉼터",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "999912",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "취업지원센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "030211",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인지역사회재활시설",
+   "fcltDtlKindNm": "점자도서 및 녹음서 출판시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "050105",
+   "sysDvsnCd": "HL",
+   "fcltUseRcpnNm": "노숙인등",
+   "fcltKindNm": "노숙인복지시설",
+   "fcltDtlKindNm": "노숙인요양시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "050106",
+   "sysDvsnCd": "HL",
+   "fcltUseRcpnNm": "노숙인등",
+   "fcltKindNm": "노숙인복지시설",
+   "fcltDtlKindNm": "노숙인자활시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "999992",
+   "sysDvsnCd": "WK",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "아동복지시설(기타)",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "999990",
+   "sysDvsnCd": "WA",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "공동생활가정",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "999905",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "정신의료기관",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "170103",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "비영리법인",
+   "fcltDtlKindNm": "시·도사회복지협의회",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "170105",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "비영리법인",
+   "fcltDtlKindNm": "기타법인",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "040315",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "정신질환자종합훈련시설(구)",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "040319",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "주거제공시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "020102",
+   "sysDvsnCd": "WK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "아동일시보호시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "010203",
+   "sysDvsnCd": "WA",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "노인의료복지시설",
+   "fcltDtlKindNm": "노인전문병원",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "999916",
+   "sysDvsnCd": "WA",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "경로식당",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "010603",
+   "sysDvsnCd": "WG",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "복합노인복지시설",
+   "fcltDtlKindNm": "복합노인복지시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "020103",
+   "sysDvsnCd": "WK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "아동보호치료시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "020105",
+   "sysDvsnCd": "WK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "자립지원시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "020112",
+   "sysDvsnCd": "SK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "아동종합시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "030108",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인거주시설",
+   "fcltDtlKindNm": "장애인공동생활가정",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "030305",
+   "sysDvsnCd": "DP",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인직업재활시설",
+   "fcltDtlKindNm": "장애인 근로사업장",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "040326",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "종합시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "050109",
+   "sysDvsnCd": "HL",
+   "fcltUseRcpnNm": "노숙인등",
+   "fcltKindNm": "노숙인복지시설",
+   "fcltDtlKindNm": "노숙인급식시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "100302",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "성폭력피해보호시설",
+   "fcltDtlKindNm": "성폭력피해상담소",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "170101",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "비영리법인",
+   "fcltDtlKindNm": "시설법인",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "100105",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "성매매피해지원시설",
+   "fcltDtlKindNm": "성매매피해상담소",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "100106",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "성매매피해지원시설",
+   "fcltDtlKindNm": "자립지원공동생활시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "999982",
+   "sysDvsnCd": "FC",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "가정위탁지원센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "030111",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인거주시설",
+   "fcltDtlKindNm": "독립형주거서비스제공기관",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "030207",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인지역사회재활시설",
+   "fcltDtlKindNm": "장애인수련시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "031101",
+   "sysDvsnCd": "XH",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "보조기기센터",
+   "fcltDtlKindNm": "지역보조기기센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "010301",
+   "sysDvsnCd": "WG",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "노인여가복지시설",
+   "fcltDtlKindNm": "노인복지관",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "040325",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "생산품판매시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "080101",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "결핵한센인",
+   "fcltKindNm": "결핵한센시설",
+   "fcltDtlKindNm": "결핵요양시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "090114",
+   "sysDvsnCd": "MF",
+   "fcltUseRcpnNm": "한부모가족",
+   "fcltKindNm": "한부모가족복지시설",
+   "fcltDtlKindNm": "양육지원시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "100303",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "성폭력피해보호시설",
+   "fcltDtlKindNm": "성폭력피해상담원교육훈련시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "100402",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "가정폭력피해보호시설",
+   "fcltDtlKindNm": "가정폭력상담소",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "120101",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "가족복지시설",
+   "fcltKindNm": "건강가정지원센터",
+   "fcltDtlKindNm": "건강가정지원센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "170102",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "비영리법인",
+   "fcltDtlKindNm": "지원법인",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "999908",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "시니어클럽",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "999909",
+   "sysDvsnCd": "WA",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "노인복지센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "210101",
+   "sysDvsnCd": "SK",
+   "fcltKindNm": "위기아동청년전담조직",
+   "fcltDtlKindNm": "청년미래센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "999983",
+   "sysDvsnCd": "HL",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "쪽방상담소",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "999985",
+   "sysDvsnCd": "WK",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "아동보호전문기관",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "999999",
+   "sysDvsnCd": "XX",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "기타시설",
+   "fcltTyDvsn": "E"
+  },
+  {
+   "fcltKindCd": "080103",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "결핵한센인",
+   "fcltKindNm": "결핵한센시설",
+   "fcltDtlKindNm": "한센인주거복지시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "010401",
+   "sysDvsnCd": "WA",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "재가노인복지시설",
+   "fcltDtlKindNm": "재가노인복지시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "030209",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "장애인",
+   "fcltKindNm": "장애인지역사회재활시설",
+   "fcltDtlKindNm": "수어통역센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "040321",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "공동생활가정",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "040324",
+   "sysDvsnCd": "MH",
+   "fcltUseRcpnNm": "정신보건",
+   "fcltKindNm": "정신재활시설",
+   "fcltDtlKindNm": "직업재활시설",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "090113",
+   "sysDvsnCd": "MF",
+   "fcltUseRcpnNm": "한부모가족",
+   "fcltKindNm": "한부모가족복지시설",
+   "fcltDtlKindNm": "출산지원시설",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "150102",
+   "sysDvsnCd": "YO",
+   "fcltUseRcpnNm": "청소년",
+   "fcltKindNm": "청소년복지시설",
+   "fcltDtlKindNm": "청소년자립지원관",
+   "fcltTyDvsn": "L"
+  },
+  {
+   "fcltKindCd": "010303",
+   "sysDvsnCd": "WG",
+   "fcltUseRcpnNm": "노인",
+   "fcltKindNm": "노인여가복지시설",
+   "fcltDtlKindNm": "노인교실",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "999993",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "장애인복지시설(기타)",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "999995",
+   "sysDvsnCd": "WA",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "노인복지시설(기타)",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "100104",
+   "sysDvsnCd": "WO",
+   "fcltUseRcpnNm": "여성",
+   "fcltKindNm": "성매매피해지원시설",
+   "fcltDtlKindNm": "자활지원센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "020117",
+   "sysDvsnCd": "SK",
+   "fcltUseRcpnNm": "아동",
+   "fcltKindNm": "아동복지시설",
+   "fcltDtlKindNm": "협동돌봄센터",
+   "fcltTyDvsn": "U"
+  },
+  {
+   "fcltKindCd": "999917",
+   "sysDvsnCd": "WF",
+   "fcltUseRcpnNm": "기타",
+   "fcltKindNm": "기타기관",
+   "fcltDtlKindNm": "장애인복지센터",
+   "fcltTyDvsn": "U"
+  }
+ ]
+}
