@@ -127,7 +127,7 @@ def fig1():
     out.append(text(IW - right, y(avg) - 7, f"경북 전체 {r0(avg):,}명", 14, INK2, "end", 600,
                     f'stroke="{SURFACE}" stroke-width="4" paint-order="stroke"'))
     notes = ["자료: 복지로 사회보장통계 장애인등록 장애유형별 연령별 장애인수(2026년 9월), 사회서비스 전자바우처 제공기관(2026년 11월 8일 조회).",
-             "발달장애인은 지적, 자폐성 장애인이고, 두 서비스의 대상 나이(주간활동 18~64세, 방과후활동 6~17세)를 합친 6~64세만 셌습니다.",
+             "발달장애인은 지적, 자폐성 장애인입니다. 방과후활동(6~17세)과 주간활동(18세 이상) 대상 가운데 6~64세만 셌습니다.",
              "제공기관은 발달장애인 주간활동이나 청소년 방과후활동을 하는 기관입니다."]
     for k, s in enumerate(notes):
         out.append(text(0, base + 52 + k * 18, s, 13, MUTED))
@@ -233,7 +233,7 @@ def fig2(plan="안동시"):
     out.append(text(ax, 18, "공개 사회보장 데이터", 16, INK, "start", 700))
     out.append(f'<rect x="{ax + 0.5}" y="{top}" width="{aw}" height="{bot - top}" rx="8" fill="{PANEL}" stroke="{GRID}"/>')
     groups = [("수요", ["연령별 등록장애인 (복지로)", "시군구별 수급권자", "주민등록 인구"]),
-              ("공급", ["지자체 복지사업 (API)", "사회서비스 제공기관 (API)", "사회복지시설 (API)", "장애인 주간보호시설"])]
+              ("공급", ["지자체 복지사업 (API)", "사회서비스 제공기관 (API)", "사회복지시설 (API)", "장애인 주간이용시설"])]
     yy = top + 34
     for title, items in groups:
         out.append(text(ax + 14, yy, title, 15, INK, "start", 700))
